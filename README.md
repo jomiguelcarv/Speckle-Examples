@@ -1,5 +1,7 @@
 # Speckle-Examples
-An ongoing collection of specklePY scripts
+An ongoing collection of specklePY scripts, across different ideas on leveraging Speckle
+<img width="1085" alt="Screenshot 2024-02-16 at 15 42 46" src="https://github.com/jomi13/Speckle-Examples/assets/35776833/5cc9e189-a46b-4cf3-8cc0-23fd08209855">
+
 
 # federation.py
 Merge the latest commit from each branch of a stream into a new "federated-branch". Optionally, filter out any branches you do not wish to federate.
